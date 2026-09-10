@@ -1,0 +1,274 @@
+{
+  "Python": {
+    "title": "Python for Everybody Specialization",
+    "platform": "Coursera / freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+    "type": "Interactive Course",
+    "level": "Beginner to Intermediate",
+    "description": "Master Python basics, data structures, web scraping, and database integrations."
+  },
+  "JavaScript": {
+    "title": "Modern JavaScript From The Beginning",
+    "platform": "MDN Web Docs / freeCodeCamp",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "type": "Documentation & Tutorial",
+    "level": "Beginner to Advanced",
+    "description": "Learn modern ES6+ JavaScript, asynchronous programming, DOM manipulation, and promises."
+  },
+  "TypeScript": {
+    "title": "TypeScript Handbook & Practical Guide",
+    "platform": "Official Docs / Execute Program",
+    "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "type": "Official Documentation",
+    "level": "Intermediate",
+    "description": "Master typed JavaScript, interfaces, generics, type inference, and compiler configuration."
+  },
+  "React": {
+    "title": "React Official Documentation & Interactive Tutorial",
+    "platform": "react.dev",
+    "url": "https://react.dev/learn",
+    "type": "Official Guide",
+    "level": "Intermediate",
+    "description": "Learn modern React with Hooks, functional components, state management, and Server Components."
+  },
+  "React.js": {
+    "title": "React Official Documentation & Interactive Tutorial",
+    "platform": "react.dev",
+    "url": "https://react.dev/learn",
+    "type": "Official Guide",
+    "level": "Intermediate",
+    "description": "Learn modern React with Hooks, functional components, state management, and Server Components."
+  },
+  "Next.js": {
+    "title": "Next.js Foundations & App Router",
+    "platform": "Vercel Academy",
+    "url": "https://nextjs.org/learn",
+    "type": "Interactive Course",
+    "level": "Intermediate to Advanced",
+    "description": "Build full-stack React applications with App Router, SSR, SSG, API routes, and optimization."
+  },
+  "Node.js": {
+    "title": "Node.js Developer Guide",
+    "platform": "Nodejs.org / freeCodeCamp",
+    "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+    "type": "Official Guide",
+    "level": "Intermediate",
+    "description": "Understand event loops, asynchronous I/O, Express routing, REST APIs, and middleware."
+  },
+  "Express.js": {
+    "title": "Express Web Application Framework",
+    "platform": "ExpressJS.com",
+    "url": "https://expressjs.com/en/starter/installing.html",
+    "type": "Documentation",
+    "level": "Intermediate",
+    "description": "Fast, unopinionated, minimalist web framework for Node.js backend development."
+  },
+  "Django": {
+    "title": "Django Web Framework for Python",
+    "platform": "Django Project Docs",
+    "url": "https://docs.djangoproject.com/en/stable/intro/tutorial01/",
+    "type": "Tutorial & Docs",
+    "level": "Intermediate",
+    "description": "Build batteries-included web applications with Django ORM, authentication, and admin panel."
+  },
+  "FastAPI": {
+    "title": "FastAPI Tutorial - User Guide",
+    "platform": "tiangolo.com",
+    "url": "https://fastapi.tiangolo.com/tutorial/",
+    "type": "Documentation",
+    "level": "Intermediate",
+    "description": "High performance Python API development with Pydantic type hints and OpenAPI docs."
+  },
+  "Machine Learning": {
+    "title": "Machine Learning Specialization by Andrew Ng",
+    "platform": "Coursera / DeepLearning.AI",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "type": "Specialization Course",
+    "level": "Intermediate",
+    "description": "Comprehensive grounding in supervised learning, unsupervised learning, and ML best practices."
+  },
+  "Deep Learning": {
+    "title": "Deep Learning Specialization",
+    "platform": "DeepLearning.AI",
+    "url": "https://www.deeplearning.ai/courses/deep-learning-specialization/",
+    "type": "Specialization Course",
+    "level": "Advanced",
+    "description": "Neural Networks, CNNs, RNNs, Transformers, and optimization algorithms in PyTorch/TensorFlow."
+  },
+  "TensorFlow": {
+    "title": "TensorFlow Developer Certificate Program",
+    "platform": "TensorFlow.org",
+    "url": "https://www.tensorflow.org/tutorials",
+    "type": "Official Tutorials",
+    "level": "Intermediate to Advanced",
+    "description": "Build end-to-end computer vision, NLP, and time series models using Keras and TensorFlow."
+  },
+  "PyTorch": {
+    "title": "Deep Learning with PyTorch: 60 Minute Blitz",
+    "platform": "PyTorch.org",
+    "url": "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html",
+    "type": "Official Guide",
+    "level": "Intermediate to Advanced",
+    "description": "Learn PyTorch tensors, autograd engine, custom neural network modules, and GPU acceleration."
+  },
+  "Scikit-Learn": {
+    "title": "Getting Started with Scikit-Learn",
+    "platform": "Scikit-Learn Docs",
+    "url": "https://scikit-learn.org/stable/getting_started.html",
+    "type": "Official Docs",
+    "level": "Intermediate",
+    "description": "Practical Python machine learning library for classification, regression, clustering, and PCA."
+  },
+  "NLP": {
+    "title": "Hugging Face NLP Course",
+    "platform": "Hugging Face",
+    "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
+    "type": "Interactive Course",
+    "level": "Intermediate to Advanced",
+    "description": "Master natural language processing using Transformers, tokenizers, fine-tuning, and Datasets."
+  },
+  "Natural Language Processing": {
+    "title": "Hugging Face NLP Course",
+    "platform": "Hugging Face",
+    "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
+    "type": "Interactive Course",
+    "level": "Intermediate to Advanced",
+    "description": "Master natural language processing using Transformers, tokenizers, fine-tuning, and Datasets."
+  },
+  "LLMs": {
+    "title": "Generative AI with Large Language Models",
+    "platform": "Coursera / AWS / DeepLearning.AI",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-with-llms/",
+    "type": "Specialization",
+    "level": "Advanced",
+    "description": "Understand LLM architecture, pretraining, fine-tuning (PEFT/LoRA), and RLHF alignment."
+  },
+  "LangChain": {
+    "title": "LangChain Official Documentation & Academy",
+    "platform": "LangChain Docs",
+    "url": "https://python.langchain.com/docs/get_started/introduction",
+    "type": "Documentation",
+    "level": "Intermediate",
+    "description": "Build LLM applications with chains, agents, memory, vector stores, and RAG pipelines."
+  },
+  "Docker": {
+    "title": "Docker Curriculum & Hands-on Labs",
+    "platform": "DockerDocs / Play with Docker",
+    "url": "https://docker-curriculum.com/",
+    "type": "Interactive Tutorial",
+    "level": "Beginner to Intermediate",
+    "description": "Learn containerization concepts, Dockerfiles, images, containers, networks, and Docker Compose."
+  },
+  "Kubernetes": {
+    "title": "Kubernetes Basics & Deployment Guide",
+    "platform": "Kubernetes.io",
+    "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+    "type": "Official Tutorials",
+    "level": "Advanced",
+    "description": "Learn orchestration, pods, deployments, services, ingress, and cloud-native scaling."
+  },
+  "AWS": {
+    "title": "AWS Cloud Practitioner & Solutions Architect",
+    "platform": "AWS Skill Builder",
+    "url": "https://aws.amazon.com/skillbuilder/",
+    "type": "Official Training",
+    "level": "Beginner to Advanced",
+    "description": "Master core cloud services including EC2, S3, RDS, Lambda, VPC, and IAM security."
+  },
+  "Azure": {
+    "title": "Microsoft Azure Fundamentals (AZ-900)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/azure/",
+    "type": "Official Training",
+    "level": "Beginner to Intermediate",
+    "description": "Learn cloud concepts, core Azure services, security, privacy, compliance, and support."
+  },
+  "GCP": {
+    "title": "Google Cloud Computing Foundations",
+    "platform": "Google Cloud Skills Boost",
+    "url": "https://www.cloudskillsboost.google/",
+    "type": "Official Training",
+    "level": "Beginner to Intermediate",
+    "description": "Learn GCP architecture, Compute Engine, BigQuery, Kubernetes Engine, and Cloud Storage."
+  },
+  "CI/CD": {
+    "title": "Continuous Integration & Deployment Guide",
+    "platform": "GitHub Docs / GitLab Docs",
+    "url": "https://docs.github.com/en/actions",
+    "type": "Guides",
+    "level": "Intermediate",
+    "description": "Automate build, test, and deployment workflows using GitHub Actions and modern CI pipelines."
+  },
+  "SQL": {
+    "title": "SQL Tutorial & Practice Queries",
+    "platform": "Mode Analytics / LeetCode SQL",
+    "url": "https://mode.com/sql-tutorial/",
+    "type": "Interactive Course",
+    "level": "Beginner to Advanced",
+    "description": "Learn relational database query design, joins, subqueries, window functions, and indexing."
+  },
+  "PostgreSQL": {
+    "title": "PostgreSQL Official Tutorial",
+    "platform": "Postgresql.org",
+    "url": "https://www.postgresql.org/docs/current/tutorial.html",
+    "type": "Official Documentation",
+    "level": "Intermediate",
+    "description": "Master advanced open-source relational database features, JSONB, indexing, and optimization."
+  },
+  "MongoDB": {
+    "title": "MongoDB University - Developer Courses",
+    "platform": "MongoDB Academy",
+    "url": "https://learn.mongodb.com/",
+    "type": "Official Free Courses",
+    "level": "Beginner to Intermediate",
+    "description": "NoSQL document database fundamentals, aggregation framework, indexing, and schema design."
+  },
+  "Redis": {
+    "title": "Redis University",
+    "platform": "Redis.io",
+    "url": "https://university.redis.com/",
+    "type": "Official Academy",
+    "level": "Intermediate",
+    "description": "In-memory data structures, caching strategies, pub/sub messaging, and distributed key-value storage."
+  },
+  "GraphQL": {
+    "title": "GraphQL Core Concepts & How to GraphQL",
+    "platform": "HowToGraphQL",
+    "url": "https://www.howtographql.com/",
+    "type": "Tutorial",
+    "level": "Intermediate",
+    "description": "Learn GraphQL schemas, queries, mutations, subscriptions, and client integration with Apollo."
+  },
+  "REST API": {
+    "title": "RESTful API Design Best Practices",
+    "platform": "RESTful API Tutorial",
+    "url": "https://restfulapi.net/",
+    "type": "Guide",
+    "level": "Beginner to Intermediate",
+    "description": "Master HTTP methods, status codes, payload structures, authentication, and endpoint modeling."
+  },
+  "Git": {
+    "title": "Git & GitHub Crash Course",
+    "platform": "Pro Git Book / freeCodeCamp",
+    "url": "https://git-scm.com/book/en/v2",
+    "type": "Official Book & Guide",
+    "level": "Beginner to Intermediate",
+    "description": "Version control fundamentals: branching, merging, rebase, cherry-pick, pull requests, and git flow."
+  },
+  "System Design": {
+    "title": "System Design Primer",
+    "platform": "GitHub (donnemartin)",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "type": "Open Source Reference",
+    "level": "Advanced",
+    "description": "Learn how to design scalable systems, load balancers, caching, microservices, and databases."
+  },
+  "Cybersecurity": {
+    "title": "Introduction to Cybersecurity Specialization",
+    "platform": "Coursera / TryHackMe",
+    "url": "https://tryhackme.com/",
+    "type": "Hands-on Practice",
+    "level": "Beginner to Intermediate",
+    "description": "Learn network security, web application vulnerability assessment, OWASP Top 10, and cryptography."
+  }
+}
