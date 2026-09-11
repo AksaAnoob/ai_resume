@@ -260,16 +260,6 @@ def main():
         - **40%** Technical Skill Set Match Ratio
         """)
         st.divider()
-        
-        # API Key Status
-        api_key_env = os.environ.get("HF_TOKEN") or os.environ.get("API_KEY")
-        if api_key_env:
-            masked_key = api_key_env[:4] + "..." + api_key_env[-4:] if len(api_key_env) > 8 else "***"
-            st.success(f"🔑 **API Key Connected:** `{masked_key}`")
-        else:
-            st.info("🔑 **API Key:** Not set (Using default offline model)")
-
-        st.divider()
         st.markdown("### 🧪 Quick Demo")
         if st.button("Load Sample Job Description"):
             st.session_state["sample_jd"] = SAMPLE_JD
